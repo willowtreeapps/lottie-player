@@ -1,6 +1,11 @@
 # Lottie Mac Player (WIP)
 This repo contains a really basic form of a lottie player. Designers can use this application to test their lottie animations and make sure that what they design is fully supported. Currently this is a Work in Progress, meaning that not everything is fully implemented. Using it for a lottie player though is ready to go!
 
+![Screenshot of Lottie Player](https://github.com/willowtreeapps/lottie-player/raw/master/imgs/screenshot.png)
+
+# How to Download
+Since this is a Mac app, it is really easy to download. Visit our [releases page](https://github.com/willowtreeapps/lottie-player/releases) and find the latest release. 
+
 # Features
 - Open Lottie json files
 - Change the background color
@@ -24,4 +29,4 @@ Contributions are more than welcome! Please see the [Contributing Guidelines](ht
 
 We build apps, responsive sites, bots—any digital product that lives on a screen—for the world’s leading companies. Our elite teams challenge themselves to build extraordinary experiences by bridging the latest strategy and design thinking with enterprise-grade software development.
 
-Interested in working on more unique projects like Spruce? Check out our [careers page](http://willowtreeapps.com/careers?utm_campaign=spruce-gh).
+Interested in working on more unique projects like Lottie-Player? Check out our [careers page](http://willowtreeapps.com/careers?utm_campaign=spruce-gh).
