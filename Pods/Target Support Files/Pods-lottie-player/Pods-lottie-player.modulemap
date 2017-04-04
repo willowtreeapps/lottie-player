@@ -1,0 +1,6 @@
+framework module Pods_lottie_player {
+  umbrella header "Pods-lottie-player-umbrella.h"
+
+  export *
+  module * { export * }
+}
